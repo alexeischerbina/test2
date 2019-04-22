@@ -1,4 +1,4 @@
 console.log('Hello world;');
 console.log('Hello everybody;');
 console.log('Hello my dear friend;');
-console.log('Рад приветствовать Вас;');
+console.log('Р Р°Рґ РїСЂРёРІРµС‚СЃС‚РІРѕРІР°С‚СЊ Р’Р°СЃ;');
